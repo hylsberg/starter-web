@@ -14,4 +14,7 @@ Sample website with plenty of files for demos
 
 ##Deployment
 
+Deployment description
 ##How to Contribute
+
+last line
