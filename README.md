@@ -18,3 +18,7 @@ Deployment description
 ##How to Contribute
 
 last line
+
+###Copyright
+
+coppyright section
